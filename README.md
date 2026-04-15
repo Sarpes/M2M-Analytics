@@ -130,12 +130,15 @@ The order patterns of the top 5 revenue-generating customers have been analysed 
 ---
 
 ## Dashboard Preview
-![Overview](images/dashboard_1.png)
-![Products](images/dashboard_2.png)
-![Customers](images/dashboard_3.png)
-![Employees](images/dashboard_4.png)
+
 ![Data Model](images/model.png)
+![Overview](images/dashboard%201.png)
+![Products](images/dashboard%202.png)
+![Customers](images/dashboard%203.png)
+![Employees](images/dashboard%204.png)
+
 ---
+
 
 ## Files
 
